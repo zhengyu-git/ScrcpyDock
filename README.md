@@ -63,3 +63,9 @@ adb version
 ## 许可证
 
 [Apache License 2.0](LICENSE)
+
+## 支持项目
+
+ScrcpyDock 免费使用，欢迎自愿扫码赞赏。
+
+<img src="wechat-sponsor.jpg" alt="WeChat sponsorship QR code" width="260">

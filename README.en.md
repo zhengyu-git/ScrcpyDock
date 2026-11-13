@@ -45,3 +45,9 @@ The desktop app uses Python, PySide6, and PyAV. The interface takes inspiration 
 ## License
 
 [Apache License 2.0](LICENSE)
+
+## Support the project
+
+ScrcpyDock is free to use. If you find it helpful, you can optionally support the project via WeChat.
+
+<img src="wechat-sponsor.jpg" alt="WeChat sponsorship QR code" width="260">
